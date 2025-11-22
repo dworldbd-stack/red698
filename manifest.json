@@ -1,0 +1,16 @@
+{
+  "short_name": "Red AI",
+  "name": "Red AI - Your AI Assistant",
+  "description": "Red AI is a free, intelligent assistant with specialized modes for general chat, coding, and cybersecurity. Engage in live, voice-based or text conversations and get expert answers.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any purpose"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#0f172a"
+}
